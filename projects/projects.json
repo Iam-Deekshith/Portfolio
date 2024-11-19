@@ -1,7 +1,7 @@
 [
   {
     "name": "AI-Translator",
-    "desc": "The AI Translator project leverages Flask and Hugging Face’s MarianMT model to provide real-time text translations between multiple languages. It features a user-friendly web interface and dynamic language support, demonstrating seamless integration of NLP models into web applications.",
+    "desc": "The AI Translator uses Flask and Hugging Face’s MarianMT model to enable real-time multilingual text translation via a web interface.",
     "image": "AWScostopt",
     "category": "AI & ML",
     "links": {
