@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Chaitanya";
+            document.title = "Portfolio | Deekshith";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
